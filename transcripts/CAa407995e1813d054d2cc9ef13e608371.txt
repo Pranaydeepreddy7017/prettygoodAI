@@ -1,0 +1,22 @@
+CallSid: CAa407995e1813d054d2cc9ef13e608371
+Scenario: call_drop - You are trying to schedule an appointment. After providing your details and confirming the appointment date, say that you couldnt hear them and ask again
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex. I'd like to schedule an appointment, please.
+[AGENT] Thought it Alex. Can you please provide your date of birth?
+[PATIENT] My date of birth is March 15, 1990.
+[AGENT] Thanks Alex, what type of appointment? Would you like to schedule? For example, a new patient consultation, follow-up consultation, procedure or physical therapy session.
+[PATIENT] I’d like to schedule a follow-up consultation, please.
+[AGENT] Got it for your follow-up consultation. Do you have a preferred provider or day and time in mind? We have openings this week and early next week.
+[PATIENT] I can do this Thursday or Friday, whichever works best for you.
+[AGENT] Let me check available follow-up consultation times for this Thursday and Friday. 1 moment while I fetch the options
+[AGENT] The Nest available. Follow-up consultation is Thursday. February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this time or hear about a later slot that morning?
+[PATIENT] Could you repeat the date and time again? I couldn't hear you clearly.
+[AGENT] Of course, the next available slot is Thursday. February 26th at 8:00 a.m. with Dr. Dubia Howser, would you like to book this time?
+[PATIENT] I’m sorry, I still didn’t catch that. Could you say the date and time one more time?
+[AGENT] No problem. The appointment is on Thursday, February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this slot? Or would you prefer a later time that morning?
+[PATIENT] I still couldn't hear that clearly. Can you please repeat the date and time one more time?
+[AGENT] Sure. The available appointment is Thursday. February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this time? Or would you like a later slot?
+[PATIENT] Thanks, that’s all I needed. Bye.

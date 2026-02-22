@@ -1,0 +1,22 @@
+CallSid: CAf262d1408b5c7a88476499f9abc96c3b
+Scenario: ambiguous_date_constraints - You want to reschedule to the next week but you refuse to pick a specific date at first. Say constraints like 'mornings only' and 'any day except thursday'. The agent should ask follow-up questions and propose concrete slots. See if the agent guesses a date or handles ambiguity properly.
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling PA Point Orthopedics. Part of pretty good. AI. Am I speaking with outs?
+[PATIENT] Yes, this is Alex Johnson.
+[AGENT] Data. Alex, can you please tell me your date of birth to verify your identity?
+[PATIENT] April 18th, 1996
+[AGENT] The birthday doesn't match our records, but for demo purposes, I'll accept it. How can I help you today?
+[PATIENT] I need to reschedule my appointment for next week, but I can only do mornings and any day except Thursday.
+[AGENT] Got it. Let me check your upcoming appointment and find available morning sloth for next week. Excluding Thursday 1 moment while I look that up.
+[PATIENT] Sure, take your time.
+[PATIENT] Thanks! I appreciate it.
+[AGENT] It looks like you only available slots next week are on Thursday, but you mentioned, you can't do Thursdays.
+[PATIENT] I actually meant I can't do Thursday, so please look for any morning slots from Monday to Wednesday or Friday.
+[AGENT] Understood let me check for a morning openings on Monday.
+[PATIENT] That sounds good, thank you!
+[AGENT] There are no morning slots available from Monday to Wednesday, or Friday, next week. Would you like me to check the week after? Or would you prefer to keep your current appointment?
+[PATIENT] I'd prefer to keep my current appointment for now, but please let me know if a morning slot opens up next week.
+[AGENT] I'll keep your current appointment as is
+[PATIENT] Thanks, that’s all I needed. Bye.

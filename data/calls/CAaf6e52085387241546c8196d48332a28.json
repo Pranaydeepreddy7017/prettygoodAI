@@ -1,0 +1,101 @@
+{
+  "call_sid": "CAaf6e52085387241546c8196d48332a28",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.",
+      "ts": "2026-02-20T00:38:23.477575+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks for calling Pivot Point Orthopedics part of pretty good Ai and I speaking with Alex",
+      "ts": "2026-02-20T00:38:32.652538+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Am I speaking with Alex? If so, can you please provide your date of birth to verify your identity?",
+      "ts": "2026-02-20T00:38:51.213678+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, my date of birth is July 15, 1990.",
+      "ts": "2026-02-20T00:38:52.562693+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "The birthday you gave doesn't match our records, but for demo purposes. I'll accept it.  How can I help you today?",
+      "ts": "2026-02-20T00:39:09.852591+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I need a refill on my medication; I've run out and want to know the process and how long it usually takes.",
+      "ts": "2026-02-20T00:39:11.279294+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Let me explain the process first. I'll collect some details about your medication and Pharmacy. Then send your refill request. To our medical team, they'll review it and send it to your Pharmacy as soon as possible. Your Pharmacy will notify you when it's ready for future. Refills, please call us directly rather than the pharmacy to avoid automatic denials. Let's get started. What medication do you need refilled?",
+      "ts": "2026-02-20T00:39:48.682184+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I need a refill on my pain medication, which is oxycodone.",
+      "ts": "2026-02-20T00:39:49.403697+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I don't see any medications listed in your records. Are you sure you've had oxycodone prescribed by our Clinic before  If you'd like I can still document your request and send it to our medical team for review. Would you like me to do that?",
+      "ts": "2026-02-20T00:40:17.657492+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please document my request and send it to the medical team for review.",
+      "ts": "2026-02-20T00:40:18.894951+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm a stud. What's the dosage and how often do you? Take oxycodone.",
+      "ts": "2026-02-20T00:40:33.851019+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I take 10 mg every 4 to 6 hours as needed for pain.",
+      "ts": "2026-02-20T00:40:35.670966+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. When did you last have this medication refilled?",
+      "ts": "2026-02-20T00:40:48.860000+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I last had it refilled about a month ago.",
+      "ts": "2026-02-20T00:40:49.716495+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Which pharmacy do you use? Please confirm the location.",
+      "ts": "2026-02-20T00:41:02.250933+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I use the CVS on Main Street.",
+      "ts": "2026-02-20T00:41:02.916412+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "How many days of medication? Do you have left right now?",
+      "ts": "2026-02-20T00:41:13.548806+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-20T00:41:13.549659+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "med_refill",
+  "scenario_text": "You need a medication refill. You ran out and want to know the process and expected timeline."
+}

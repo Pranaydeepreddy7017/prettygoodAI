@@ -1,0 +1,21 @@
+CallSid: CAacfda5dbf62fc7d4b4fca04363140683
+Scenario: reschedule - You already have an appointment for February 26th at 2:15 p.m but need to reschedule to first week of march due to a conflict.
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex. I need to reschedule my appointment from February 26th to the first week of March.
+[AGENT] Started Alex.  Can you please confirm your date of birth? So I can verify your identity before I help reschedule your appointment.
+[PATIENT] Sure, my date of birth is July 15, 1990.
+[AGENT] The birthday you gave doesn't match our records, but for demo purposes. I'll accept it. Let me get started on rescheduling. Your appointment from February 26th to the first week of March.  1. Mm.
+[AGENT] so,  It's let me check your upcoming appointment and find openings for the first week of March.  1 m.
+[AGENT] 2 upcoming new patient consultation appointments with Dr. Dudy, Howser on March, 3rd, 1 at 12:45 p.m. and another at 3:45 p.m.  Are you looking to reschedule both or just 1 of these appointments?
+[PATIENT] I just need to reschedule the one on February 26th, so I can take either of those times on March 3rd.
+[AGENT] I don't see an appointment for February 26th 42 on March, 3rd, would you like to cancel 1 of the March 3rd appointments and keep the other or do you want to keep both? Let me know how you'd like to proceed.
+[PATIENT] I’d like to cancel the 12:45 p.m. appointment on March 3rd and keep the 3:45 p.m. appointment.
+[AGENT] Got it. I'll cancel your new patient consultation with Dr. Duty Howser on March 3rd at 12:45 p.m. and keep your 3:45 p.m. appointment.  Can you tell me the reason for canceling? The earlier appointment.
+[PATIENT] I just have a scheduling conflict, so I can't make it at that time.
+[AGENT] Your 12:45 p.m. appointment on March 3rd with Dr. Dudy Howser has been canceled due to a scheduling conflict.  Your 345 p.m. appointment is still booked.  Is there anything else I can help you with?
+[PATIENT] No, that’s all. Thank you for your help!
+[AGENT] You're all set Alex. Your 3:45 p.m. appointment on March. 3rd is confirmed have a good day.
+[PATIENT] Thanks, that’s all I needed. Bye.

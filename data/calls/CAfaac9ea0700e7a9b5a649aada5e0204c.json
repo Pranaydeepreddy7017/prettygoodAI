@@ -1,0 +1,101 @@
+{
+  "call_sid": "CAfaac9ea0700e7a9b5a649aada5e0204c",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.",
+      "ts": "2026-02-18T02:38:03.372850+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I\u2019m not sure what you mean by that. Can you explain what the stress test involves? Also, how long does it usually take?",
+      "ts": "2026-02-18T02:38:05.213226+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "A stress test checks how your heart works during physical activity usually by walking on a treadmill or riding a stationary bike while your heart is monitored. The test helps doctors see if your heart gets enough blood flow. When it's working hard, the whole process usually takes about 30 to 60 Minutes including prep and Recovery. Let me know if you have more questions.",
+      "ts": "2026-02-18T02:38:38.252243+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, that makes sense. What should I wear for the test, and do I need to avoid anything before the appointment?",
+      "ts": "2026-02-18T02:38:39.591615+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You should wear comfortable clothes and walking shoes. Like sneakers since you'll be moving during the test.",
+      "ts": "2026-02-18T02:38:57.079105+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Got it, thanks! Is there anything specific I should avoid eating or drinking before the test?",
+      "ts": "2026-02-18T02:38:58.431527+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. Usually you should avoid caffeine and heavy meals for a few hours before the test water is fine. Some clinics also asked you not to smoke or drink alcohol before the test.",
+      "ts": "2026-02-18T02:39:17.782404+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Alright, thanks for that! How soon will I get the results, and will I receive them during the same appointment?",
+      "ts": "2026-02-18T02:39:18.685617+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Most of the time, the doctor will review your results right after the test and may discuss them with you during the same appointment.",
+      "ts": "2026-02-18T02:39:36.580804+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That\u2019s great to hear! If the doctor needs to do any follow-up tests based on the results, how soon would that happen?",
+      "ts": "2026-02-18T02:39:37.590357+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "If follow-up tests are needed the doctor will usually let you know right away and help schedule them as soon as possible often within a few days to a week depending on urgency and availability.",
+      "ts": "2026-02-18T02:39:59.553628+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds good. One last thing\u2014how should I prepare mentally for the test? Should I expect anything in particular during the process?",
+      "ts": "2026-02-18T02:40:01.031868+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "It's normal to feel a little nervous, but most people do finds just try to relax.",
+      "ts": "2026-02-18T02:40:20.689153+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks for the reassurance! Is there anything else I should know about the test or the day of the appointment?",
+      "ts": "2026-02-18T02:40:22.032123+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome, just arrived, a little early, bring a list of your medications and let the staff know if you feel unwell at any point, otherwise you should be all set for your stress test. If you have more questions, feel free to ask.",
+      "ts": "2026-02-18T02:40:45.836792+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, I'll make sure to do that. Just to confirm, should I also bring my insurance information with me?",
+      "ts": "2026-02-18T02:40:46.670932+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, please bring your insurance information with you to the appointment. It helps with check-in and billing.",
+      "ts": "2026-02-18T02:41:06.886018+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-18T02:41:06.886923+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "edge_case",
+  "scenario_text": "Stress test: give incomplete info, ask multiple questions at once, and ask for clarification if they are vague."
+}

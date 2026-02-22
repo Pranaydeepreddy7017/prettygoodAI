@@ -1,0 +1,71 @@
+{
+  "call_sid": "CAba18b4f16faaeea6601006287c30d47b",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hello. Hello. This is have a good day. I agent speaking.",
+      "ts": "2026-02-17T03:19:29.194679+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi there! I need to cancel my appointment, and I was wondering if there's any cancellation fee or policy I should be aware of.",
+      "ts": "2026-02-17T03:19:31.459713+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "There are no cancellation policies but we have a 24-hour period before which you have to cancel your schedule appointment.",
+      "ts": "2026-02-17T03:19:51.112675+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, that makes sense. So I can cancel anytime as long as it's more than 24 hours before my appointment?",
+      "ts": "2026-02-17T03:19:52.584640+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, that is correct.",
+      "ts": "2026-02-17T03:20:06.887602+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! Then I\u2019d like to go ahead and cancel my appointment, please.",
+      "ts": "2026-02-17T03:20:07.733646+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "What is your name?",
+      "ts": "2026-02-17T03:20:14.760202+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My name is Sarah Thompson.",
+      "ts": "2026-02-17T03:20:16.361777+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Oh, okay.",
+      "ts": "2026-02-17T03:20:24.159735+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My appointment was scheduled for this Friday at 2 PM.",
+      "ts": "2026-02-17T03:20:24.938960+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "okay, 1 second",
+      "ts": "2026-02-17T03:20:36.907531+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, take your time.",
+      "ts": "2026-02-17T03:20:38.915673+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "cancel",
+  "scenario_text": "You want to cancel an appointment and ask if there is any cancellation fee or policy."
+}

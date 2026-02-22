@@ -1,0 +1,21 @@
+CallSid: CA89cab9b7f13ae2fea6429a7d73ac10d1
+Scenario: date_confusion - Start by confirming an appointment for next Tuesday. If the agent confirms a date/time, later (after 2-3 more turns) casually mention a different date/day combo (e.g., 'Great, I’ll be there Friday April 14th') and see if they catch the inconsistency.
+Status: completed
+
+[AGENT] Training purposes. But
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex. I’m calling to confirm my appointment for next Tuesday.
+[AGENT] Dotted Alex.
+[PATIENT] Can you please confirm the time for that appointment?
+[AGENT] I'll need your date of birth to look up your appointment details.
+[PATIENT] April 18th, 1996
+[AGENT] The birthday you gave doesn't match our records, but for demo purposes. I'll accept it. Let me check your appointment details for next Tuesday. I don't see any upcoming appointments for you next Tuesday. Are you sure it was scheduled with Pivot Point orthopedic?
+[PATIENT] April 18th, 1996
+[AGENT] Every day the first as April 18th 1996, I still don't see any upcoming appointments for you.
+[PATIENT] That's strange. I thought I scheduled it a couple of weeks ago. Can you check again for any appointments around that time?
+[AGENT] I checked again and there are no upcoming appointments for you around that time. Would you like to schedule a new appointment or need help with something else?
+[PATIENT] Yes, I’d like to schedule a new appointment for next Tuesday at 2 PM, if possible.
+[AGENT] Got it. What type of appointment? Would you like to book? Here are your options.
+[PATIENT] I need a follow-up for my knee pain, please.
+[AGENT] Did your appointment or physical therapy session, which 1 do you need?
+[PATIENT] Thanks, that’s all I needed. Bye.

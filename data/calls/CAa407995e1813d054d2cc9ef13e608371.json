@@ -1,0 +1,101 @@
+{
+  "call_sid": "CAa407995e1813d054d2cc9ef13e608371",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.",
+      "ts": "2026-02-21T00:12:26.127366+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-21T00:12:34.433699+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex. I'd like to schedule an appointment, please.",
+      "ts": "2026-02-21T00:12:35.461244+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thought it Alex. Can you please provide your date of birth?",
+      "ts": "2026-02-21T00:12:49.148508+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My date of birth is March 15, 1990.",
+      "ts": "2026-02-21T00:12:50.080143+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks Alex, what type of appointment? Would you like to schedule? For example, a new patient consultation, follow-up consultation, procedure or physical therapy session.",
+      "ts": "2026-02-21T00:13:10.049911+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I\u2019d like to schedule a follow-up consultation, please.",
+      "ts": "2026-02-21T00:13:11.058214+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it for your follow-up consultation. Do you have a preferred provider or day and time in mind? We have openings this week and early next week.",
+      "ts": "2026-02-21T00:13:28.048680+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I can do this Thursday or Friday, whichever works best for you.",
+      "ts": "2026-02-21T00:13:29.389161+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check available follow-up consultation times for this Thursday and Friday. 1 moment while I fetch the options",
+      "ts": "2026-02-21T00:13:45.441903+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "The Nest available. Follow-up consultation is Thursday. February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this time or hear about a later slot that morning?",
+      "ts": "2026-02-21T00:13:59.067399+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Could you repeat the date and time again? I couldn't hear you clearly.",
+      "ts": "2026-02-21T00:13:59.924049+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Of course, the next available slot is Thursday. February 26th at 8:00 a.m. with Dr. Dubia Howser, would you like to book this time?",
+      "ts": "2026-02-21T00:14:17.554198+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I\u2019m sorry, I still didn\u2019t catch that. Could you say the date and time one more time?",
+      "ts": "2026-02-21T00:14:18.867810+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem. The appointment is on Thursday, February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this slot? Or would you prefer a later time that morning?",
+      "ts": "2026-02-21T00:14:38.637064+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I still couldn't hear that clearly. Can you please repeat the date and time one more time?",
+      "ts": "2026-02-21T00:14:39.857945+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. The available appointment is Thursday. February 26th at 8:00 a.m. with Dr. Dudy Howser, would you like to book this time? Or would you like a later slot?",
+      "ts": "2026-02-21T00:14:59.643015+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-21T00:14:59.643725+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "call_drop",
+  "scenario_text": "You are trying to schedule an appointment. After providing your details and confirming the appointment date, say that you couldnt hear them and ask again"
+}

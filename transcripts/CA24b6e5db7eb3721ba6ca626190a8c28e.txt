@@ -1,0 +1,22 @@
+CallSid: CA24b6e5db7eb3721ba6ca626190a8c28e
+Scenario: hours_location_insurance - You have general questions: office hours, location, and whether your insurance is accepted.
+Status: completed
+
+[AGENT] And training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex. I have a few questions about your office.
+[AGENT] Got it Alex, before we continue. Can you please provide your date of birth?
+[PATIENT] Sure, my date of birth is March 15, 1990.
+[AGENT] Got it. Elects the birth date doesn't match our records, but for demo purposes, I'll accept it.  How can I help you today?
+[PATIENT] I just wanted to know your office hours and where you're located. Also, do you accept my insurance?
+[AGENT] Our office is open Monday through Friday. We're located at Pivot Point Orthopedics, 220 Athens Way Nashville. We accept most insurance plans. If you want to check your specific insurance, I can help update or verify for you. Would you like to do that?
+[PATIENT] Yes, that would be great. My insurance is Blue Cross Blue Shield.
+[AGENT] Do you have your Blue Cross Blue Shield insurance card handy if so I can send you a text with a link to quickly upload a photo of your card, would you like to do that?
+[PATIENT] Yes, I have my card with me. Please send the link.
+[AGENT] The link to upload your insurance card isn't available right now. Let's do it another way. I'll ask you for your insurance details, 1 at a time. First 1 is your member ID number on the card.
+[AGENT] The link feature is a working right now, so I'll collect your insurance details over the phone. What's your member ID number on your Blue? Cross Blue Shield card.
+[PATIENT] My member ID number is 123456789.
+[AGENT] Scott, is there a group number listed on your card? If so, please tell me what it is.
+[PATIENT] Yes, the group number is ABC123456.
+[AGENT] Thanks. What state is your Blue Cross Blue Shield plan issued in?
+[PATIENT] Thanks, that’s all I needed. Bye.

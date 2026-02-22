@@ -1,0 +1,22 @@
+CallSid: CA96f7e1c83b3ff2f1507ae7b285f46f02
+Scenario: call_drop - You are trying to schedule an appointment. After providing your details and confirming the appointment date, say that you couldnt hear them and ask again
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex. I’d like to schedule an appointment, please.
+[AGENT] Got it, Alex.  Can you please tell me your date of birth to verify your identity before we schedule your appointment?
+[PATIENT] My date of birth is July 15, 1990.
+[AGENT] Alex the birthday you gave. Does it match our records? But for demo purposes, I'll accept it. Let me get started on scheduling your appointment.
+[PATIENT] Thank you! What dates do you have available for an appointment?
+[AGENT] A new patient consultation, follow-up procedure or physical therapy session.
+[AGENT] Got it Alex. What kind of appointment do you need?  For example, a new patient consultation, follow-up procedure or physical therapy session.
+[PATIENT] I need a new patient consultation, please. What dates do you have available?
+[AGENT] Let me check the soonest available dates for a new patient consultation 1 moment while I fetch the openings.
+[AGENT] Any openings for a new patient consultation in the next week, would you like to look for available dates in March or a different time frame?
+[PATIENT] I’d like to look for available dates in the next week, please.
+[AGENT] There are no openings for a new patient consultation in the next week. Would you like me to check for the week after next or try a specific date or month?
+[PATIENT] Can you check for the week after next, please? What do you have available?
+[AGENT] Let me check for new patient consultation openings for the week after next. 1 moment, while I look up those dates,
+[AGENT] We have openings for a new patient consultation the week. After next, the soonest is Tuesday, March 3rd at 4:30 p.m. with Dr. Duvie Howser, would you like that slot or would you prefer a later time or a different day?
+[PATIENT] Thanks, that’s all I needed. Bye.

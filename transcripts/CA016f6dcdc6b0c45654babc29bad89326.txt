@@ -1,0 +1,21 @@
+CallSid: CA016f6dcdc6b0c45654babc29bad89326
+Scenario: date_confusion - After confirming an appointment date, ask something else, later mention a different appointment date from original casually.
+Status: completed
+
+[AGENT] Training purposes. But
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good. AI.
+[PATIENT] Hi, I just wanted to confirm my appointment for next Tuesday. Also, can you tell me what to expect during the visit?
+[AGENT] Got it.
+[PATIENT] Great! I’m just wondering if I need to bring anything specific or if there are any forms I should fill out beforehand. By the way, I might need to reschedule to next Thursday instead.
+[AGENT] Understood.
+[PATIENT] Could you let me know if next Thursday works for you? And do I need to bring my insurance information or anything else?
+[AGENT] I can check availability for next Thursday and let you know what to bring.
+[PATIENT] That sounds good, thank you! I just want to make sure I'm fully prepared for the visit.
+[AGENT] Got it to help you prepare and check your appointment. I'll need your full name and date of birth.
+[PATIENT] April 18th, 1996
+[AGENT] Thanks. Can you please provide your full name as well?
+[PATIENT] My name is Alex Johnson.
+[AGENT] Let me confirm your name is Alex Johnson and your date of birth is April 18th 1996. Is that correct?
+[PATIENT] April 18th, 1996
+[AGENT] Would you like me to look up your record using the phone number you have on file with us? If so please tell me that number, if you're not sure, I can confirm your name and date of birth. Again just let me know.
+[PATIENT] Thanks, that’s all I needed. Bye.

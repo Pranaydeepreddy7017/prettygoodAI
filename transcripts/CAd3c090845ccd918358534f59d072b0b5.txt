@@ -1,0 +1,22 @@
+CallSid: CAd3c090845ccd918358534f59d072b0b5
+Scenario: barge_in - You are trying to schedule an appointment. Even before the agents says how can i help you, interrupt and ask details about stress test preparation. and wait and see if the agent asks for our details or appointment details
+Status: completed
+
+[AGENT] Training purposes.  Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[AGENT] Thanks for calling pit. At Point Orthopedics. Am I speaking with Alex? If so, can you please provide your date of birth? So I can verify your identity.  How may I help you today?
+[PATIENT] Hi, yes, this is Alex. Can you tell me what I need to do to prepare for a stress test?
+[AGENT] Got it Alex, before I can answer.  Can you please provide your true date of birth? So I can verify your identity.
+[PATIENT] Sure, my date of birth is June 15, 1985. Now, can you tell me about the stress test preparation?
+[AGENT] Alex, your birthday doesn't match our records but for demo purposes, I'll accept it for a stress. Hyper sensitivity test, its best to follow the instructions given by your provider. Usually, you may be asked to avoid eating or drinking for a few hours before the test, where comfortable clothes, and shoes, and avoid caffeine or certain medications. If you need Specific Instructions, I recommend checking with your provider directly.  Would you like me to send a message to your care team for detailed prep instructions?
+[PATIENT] Yes, that would be great! Also, can I schedule the stress test appointment while we're at it?
+[AGENT] Something's not right. I wasn't able to process your requests. I'll document this for our Clinic support team so they can follow up with you. Please. Stay on the hyper sensitivity line. While I do that.
+[PATIENT] Wait, can you just help me schedule the appointment directly? I really need to get this done.
+[AGENT] Got it, Alex, let me check the soonest, available appointments for a stress, test 1 moment, while I look that up.
+[AGENT] Stress test appointments available in the next week, would you like me to check for openings later in the month or a specific date that works for you?
+[PATIENT] Next week works for me. Can you tell me what days and times are available?
+[AGENT] Let me check for available stress, test appointments for the week after next 1 moment while I look that up.  The next available stress. Hyper sensitivity test is Tuesday. March 3rd at 3:45 p.m. with Dr. Doogie Howser there are slots at 4:30 p.m. and 5:15 p.m. that day. Would you like to book 1 of these times?
+[PATIENT] I'll take the 3:45 p.m. slot with Dr. Howser, please.
+[AGENT] Got it to confirm, you'd like to book Tuesday. March 3rd at 3:45 p.m. with Dr. Dudy Howser for your stress. Hyper sensitivity test, is that correct? And can you briefly share the reason for your visit?
+[PATIENT] Yes, that's correct. I'm experiencing some unusual symptoms and my doctor recommended the stress test to investigate further.
+[AGENT] Your appointment is set for Tuesday. March 3rd at 3:45 p.m. with Dr. Dudy Howser, please bring a government-issued photo ID and your insurance card. Would you like a text reminder for this appointment?
+[PATIENT] Thanks, that’s all I needed. Bye.

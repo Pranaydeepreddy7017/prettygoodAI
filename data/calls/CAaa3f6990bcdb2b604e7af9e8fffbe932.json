@@ -1,0 +1,96 @@
+{
+  "call_sid": "CAaa3f6990bcdb2b604e7af9e8fffbe932",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.",
+      "ts": "2026-02-18T03:49:00.023861+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, I need to reschedule my appointment for next week due to a conflict.",
+      "ts": "2026-02-18T03:49:01.407752+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it before we get started. Would you like to create a demo patient profile? I just need your first and last name to help with your request.",
+      "ts": "2026-02-18T03:49:19.763534+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My name is Alex Johnson.",
+      "ts": "2026-02-18T03:49:20.815763+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Great, my date of birth is March 15, 1990.",
+      "ts": "2026-02-18T03:49:33.280164+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for sharing. I have your date of birth as March 15th 1990. Let me get started on reschedule your appointment.",
+      "ts": "2026-02-18T03:49:49.502043+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "April 18th, 1996",
+      "ts": "2026-02-18T03:49:49.502924+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood. Let me check your upcoming appointment so we can reschedule the 1 for next week. I don't see any upcoming appointments for you in the system. Are you looking to book a new appointment instead?",
+      "ts": "2026-02-18T03:50:06.364540+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I already have an appointment scheduled, but I need to move it to next week. Can you check again?",
+      "ts": "2026-02-18T03:50:07.373416+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I checked your record, but there are no upcoming appointments listed. It's possible. Your appointment hasn't been added to the system, yet. Would you like me to document this for the clinic support team so they can follow up and help you reschedule?",
+      "ts": "2026-02-18T03:50:32.140722+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please do that. I really need to get this sorted out.",
+      "ts": "2026-02-18T03:50:32.810289+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Request has been documented, the clinic staff will review your case and follow up to help. Locate and reschedule your appointment as soon as possible.",
+      "ts": "2026-02-18T03:50:53.122625+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thank you for your help! How long do you think it will take for them to get back to me?",
+      "ts": "2026-02-18T03:50:53.955312+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "The clinic staff will follow up as soon as possible. Usually, within 1 business day, if you need urgent, help, let me know.",
+      "ts": "2026-02-18T03:51:08.874250+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds good, I\u2019ll keep an eye on my messages. Thanks again!",
+      "ts": "2026-02-18T03:51:09.564735+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "If you need anything else, just call back have a good evening.",
+      "ts": "2026-02-18T03:51:23.618584+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-18T03:51:23.619435+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "reschedule",
+  "scenario_text": "You already have an appointment but need to reschedule to next week due to a conflict."
+}

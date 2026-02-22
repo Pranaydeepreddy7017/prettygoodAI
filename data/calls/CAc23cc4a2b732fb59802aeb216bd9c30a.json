@@ -1,0 +1,96 @@
+{
+  "call_sid": "CAc23cc4a2b732fb59802aeb216bd9c30a",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.  Thanks for calling the point Orthopedics, part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-20T21:57:20.813414+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. Thanks for calling Pivot Point Orthopedics. And I speaking with Alex, if so, can you please provide your date of birth so I can verify your information. How may I help you today?",
+      "ts": "2026-02-20T21:57:41.749283+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex. My date of birth is March 15, 1990. I need to reschedule my appointment from February 26th to the first week of March.",
+      "ts": "2026-02-20T21:57:43.178560+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it Alex let me check your upcoming appointment and find openings for the first week of March 3rd 1 moment, while I look that up.  Alex, I'm not seeing any upcoming appointments on your record for February 26th, or any other date? Are you looking to book a new appointment instead? Or is there another date? You'd like me to check",
+      "ts": "2026-02-20T21:58:23.223992+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I\u2019m certain I had an appointment on February 26th at 2:15 p.m. Can you check again for that date?",
+      "ts": "2026-02-20T21:58:24.812876+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Alex, I checked your records and there are no past or upcoming appointments found including for February 26th.  Would you like me to help you schedule a new appointment for the first week of March?",
+      "ts": "2026-02-20T21:58:49.994856+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That\u2019s strange. I\u2019m sure I confirmed it. Can you please check for any available slots in the first week of March?",
+      "ts": "2026-02-20T21:58:51.073676+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. What type of appointment? Would you like to book for the first week of March?  For example, a new patient consultation, follow-up consultation, procedure or physical therapy session.",
+      "ts": "2026-02-20T21:59:15.579299+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "It\u2019s a follow-up consultation. Can you check for available slots?",
+      "ts": "2026-02-20T21:59:17.600421+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks, Alex. I'll look for available follow-up consultation slots in the first week of March.  Do you have a preferred provider or time of day like morning or afternoon?",
+      "ts": "2026-02-20T21:59:37.482475+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I don\u2019t have a preferred provider, but I\u2019d prefer an afternoon slot if possible.",
+      "ts": "2026-02-20T21:59:38.278385+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood I'll check for available follow-up consultation appointments with any provider in the afternoon during the first week of March. Let me fetch those options for you now.  Alex, I found some afternoon. Follow-up consultation slots. The next available is Monday. March 2nd at 1:00 p.m. with Dr. Dudy Howser, would you like to book this or hear about other options?",
+      "ts": "2026-02-20T22:00:13.609470+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, let's go ahead and book the appointment for March 2nd at 1:00 p.m. with Dr. Dudy Howser.",
+      "ts": "2026-02-20T22:00:14.729406+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm you'd like to book a follow-up consultation on Monday March 2nd at 1 p.m. with Dr. Dudy Howser, is that correct? If so can you briefly share the reason for your visit?",
+      "ts": "2026-02-20T22:00:38.272904+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that\u2019s correct. I need to discuss my recent test results and any next steps.",
+      "ts": "2026-02-20T22:00:42.827598+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Your follow-up consultation is set for Monday March 2nd at 1 pm with Dr. Dudy Howser, please bring a government-issued photo ID and your insurance card to the appointment. Would you like a text reminder? For this visit",
+      "ts": "2026-02-20T22:01:10.647655+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-20T22:01:10.648748+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "reschedule",
+  "scenario_text": "You already have an appointment for February 26th at 2:15 p.m but need to reschedule to first week of march due to a conflict."
+}

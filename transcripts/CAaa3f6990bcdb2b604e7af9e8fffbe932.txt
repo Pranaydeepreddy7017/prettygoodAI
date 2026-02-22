@@ -1,0 +1,21 @@
+CallSid: CAaa3f6990bcdb2b604e7af9e8fffbe932
+Scenario: reschedule - You already have an appointment but need to reschedule to next week due to a conflict.
+Status: completed
+
+[AGENT] Training purposes.
+[PATIENT] Hi, I need to reschedule my appointment for next week due to a conflict.
+[AGENT] Got it before we get started. Would you like to create a demo patient profile? I just need your first and last name to help with your request.
+[PATIENT] My name is Alex Johnson.
+[PATIENT] Great, my date of birth is March 15, 1990.
+[AGENT] Thanks for sharing. I have your date of birth as March 15th 1990. Let me get started on reschedule your appointment.
+[PATIENT] April 18th, 1996
+[AGENT] Understood. Let me check your upcoming appointment so we can reschedule the 1 for next week. I don't see any upcoming appointments for you in the system. Are you looking to book a new appointment instead?
+[PATIENT] No, I already have an appointment scheduled, but I need to move it to next week. Can you check again?
+[AGENT] I checked your record, but there are no upcoming appointments listed. It's possible. Your appointment hasn't been added to the system, yet. Would you like me to document this for the clinic support team so they can follow up and help you reschedule?
+[PATIENT] Yes, please do that. I really need to get this sorted out.
+[AGENT] Request has been documented, the clinic staff will review your case and follow up to help. Locate and reschedule your appointment as soon as possible.
+[PATIENT] Thank you for your help! How long do you think it will take for them to get back to me?
+[AGENT] The clinic staff will follow up as soon as possible. Usually, within 1 business day, if you need urgent, help, let me know.
+[PATIENT] That sounds good, I’ll keep an eye on my messages. Thanks again!
+[AGENT] If you need anything else, just call back have a good evening.
+[PATIENT] Thanks, that’s all I needed. Bye.

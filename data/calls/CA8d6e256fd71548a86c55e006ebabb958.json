@@ -1,0 +1,51 @@
+{
+  "call_sid": "CA8d6e256fd71548a86c55e006ebabb958",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "And training purposes.",
+      "ts": "2026-02-22T19:53:47.326670+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-22T19:53:56.159871+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex. I'd like to schedule a regular checkup, please.",
+      "ts": "2026-02-22T19:53:56.988145+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "All right. Can you please provide your date of birth?",
+      "ts": "2026-02-22T19:54:08.466265+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My date of birth is March 5, 1990.",
+      "ts": "2026-02-22T19:54:09.162522+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "The birthday doesn't match our records, but for demo purposes, I'll accept it.",
+      "ts": "2026-02-22T19:54:20.561499+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Can I help you today?",
+      "ts": "2026-02-22T19:54:23.377331+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I just want to schedule a regular checkup, any time that works for you.",
+      "ts": "2026-02-22T19:54:24.013663+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "in-progress"
+  },
+  "status": "in-progress",
+  "scenario_id": "schedule_new_appointment",
+  "scenario_text": "You need to schedule a new appointment- any time works, just a regular checkup. no constraints on date/time."
+}

@@ -1,0 +1,101 @@
+{
+  "call_sid": "CA28836f57863c396968311ff5085b1bf2",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Remaining purposes.",
+      "ts": "2026-02-19T19:46:10.009956+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, I need a refill for my medication. Can you tell me the process and how long it usually takes?",
+      "ts": "2026-02-19T19:46:12.099381+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you asking about how long it takes to get an appointment or about a specific procedure or service at Pivot Point Orthopedic? Let me know what you're interested in and I'll explain the process in timing.",
+      "ts": "2026-02-19T19:46:32.853493+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I'm asking about the medication refill process, please. How long does that usually take?",
+      "ts": "2026-02-19T19:46:34.103014+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "ts": "2026-02-19T19:46:43.740444+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thank you! I just want to make sure I understand what I need to do to get my refill.",
+      "ts": "2026-02-19T19:46:45.030560+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem.",
+      "ts": "2026-02-19T19:46:56.503511+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Do I need to contact my pharmacy, or do you handle the refill request directly?",
+      "ts": "2026-02-19T19:46:57.913087+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You can request your refill directly through us.",
+      "ts": "2026-02-19T19:47:08.485310+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! How long does it usually take to process the refill once I request it?",
+      "ts": "2026-02-19T19:47:09.281584+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Once you request a refill, it usually takes 1 to 2, business days for the clinic to process and send it to your Pharmacy.",
+      "ts": "2026-02-19T19:47:24.134501+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Okay, that sounds good. Do I need to provide any specific information when I request the refill?",
+      "ts": "2026-02-19T19:47:25.815520+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, when you request a refill, it helps to provide your full name date of birth, the medication name and your preferred Pharmacy. This makes the process faster and smoother.",
+      "ts": "2026-02-19T19:47:45.658307+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My name is Alex Johnson.",
+      "ts": "2026-02-19T19:47:45.660208+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks Alex.",
+      "ts": "2026-02-19T19:47:53.047620+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My date of birth is March 15, 1985.",
+      "ts": "2026-02-19T19:47:53.637428+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm your name is Alex Johnson and your date of birth is March 15th.",
+      "ts": "2026-02-19T19:48:08.454738+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-19T19:48:08.455221+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "med_refill",
+  "scenario_text": "You need a medication refill. You ran out and want to know the process and expected timeline."
+}

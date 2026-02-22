@@ -1,0 +1,21 @@
+CallSid: CA72ae9b9006ec6057d3c16ce80cec547c
+Scenario: impatient_caller - you are in hurry and want to reschedule  an existing appointment to a later date, give your name and date of birth in the first turn itself even before the agent asks and ask to reschedule like you are in a hurry
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?
+[PATIENT] Yes, this is Alex, and my date of birth is March 5, 1990. I need to reschedule my appointment to a later date, please!
+[AGENT] Audit Alex. Let me check your upcoming appointment and find some later dates for you to reschedule 1 moment
+[AGENT] You have a follow-up consultation scheduled for Monday. March 2nd at 1:00 p.m. with Dr. Dubia Howser is this the appointment you want to reschedule to a later date?
+[PATIENT] Yes, that's the one. Can you move it to sometime next week? I’m in a bit of a rush!
+[PATIENT] Can you make it for Wednesday or Thursday? Whatever works best!
+[AGENT] Got it. The earliest available slot is Wednesday. February 25th at 10:00 a.m.? Would you like to move your follow-up consultation to that time?
+[PATIENT] Yes, that works for me! Please go ahead and reschedule it for Wednesday at 10:00 a.m. Thank you!
+[AGENT] Let me confirm.  I'll reschedule your follow-up consultation with Dr. Doogie Howser to Wednesday, February 25th at 10:00 a.m., is that correct?
+[PATIENT] Yes, that's correct! Thank you for your help!
+[AGENT] Your follow-up consultation is now set for Wednesday, February 25th at 10:00 a.m. with Dr. Doogie Howser, would you like a text message reminder for this appointment?
+[PATIENT] Yes, please send me a text message reminder. Thanks again!
+[AGENT] You'll get a text reminder soon at your number ending in 8312. If you need anything else, just let me know.
+[AGENT] You'll get a text reminder soon that your number ending in 8312. If you need anything else, just let me know.
+[AGENT] Are you still there?
+[PATIENT] Thanks, that’s all I needed. Bye.

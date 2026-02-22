@@ -1,0 +1,96 @@
+{
+  "call_sid": "CA016f6dcdc6b0c45654babc29bad89326",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes. But",
+      "ts": "2026-02-18T17:44:28.641095+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good. AI.",
+      "ts": "2026-02-18T17:44:33.765950+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Hi, I just wanted to confirm my appointment for next Tuesday. Also, can you tell me what to expect during the visit?",
+      "ts": "2026-02-18T17:44:35.857748+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it.",
+      "ts": "2026-02-18T17:44:47.940476+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Great! I\u2019m just wondering if I need to bring anything specific or if there are any forms I should fill out beforehand. By the way, I might need to reschedule to next Thursday instead.",
+      "ts": "2026-02-18T17:44:49.770143+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood.",
+      "ts": "2026-02-18T17:45:05.752991+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Could you let me know if next Thursday works for you? And do I need to bring my insurance information or anything else?",
+      "ts": "2026-02-18T17:45:07.232387+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can check availability for next Thursday and let you know what to bring.",
+      "ts": "2026-02-18T17:45:20.449108+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds good, thank you! I just want to make sure I'm fully prepared for the visit.",
+      "ts": "2026-02-18T17:45:21.570079+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it to help you prepare and check your appointment. I'll need your full name and date of birth.",
+      "ts": "2026-02-18T17:45:35.346194+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "April 18th, 1996",
+      "ts": "2026-02-18T17:45:35.347036+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks. Can you please provide your full name as well?",
+      "ts": "2026-02-18T17:45:44.045390+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My name is Alex Johnson.",
+      "ts": "2026-02-18T17:45:44.046203+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm your name is Alex Johnson and your date of birth is April 18th 1996. Is that correct?",
+      "ts": "2026-02-18T17:46:00.797613+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "April 18th, 1996",
+      "ts": "2026-02-18T17:46:00.798266+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Would you like me to look up your record using the phone number you have on file with us? If so please tell me that number, if you're not sure, I can confirm your name and date of birth. Again just let me know.",
+      "ts": "2026-02-18T17:46:19.255116+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-18T17:46:19.255864+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "date_confusion",
+  "scenario_text": "After confirming an appointment date, ask something else, later mention a different appointment date from original casually."
+}

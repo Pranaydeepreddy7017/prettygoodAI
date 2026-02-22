@@ -1,0 +1,23 @@
+CallSid: CA8d09e5ab914ae2639c5d33a867c3af8c
+Scenario: double_booking - You have an existing appointment scheduled for Monday, March 2nd at 11:00 AM. You are calling to schedule an additional appointment for your wife, who is not available on Mondays. Ask the agent for nearby alternative dates that would allow both appointments to be scheduled on the same day within a two-hour time window. Evaluate whether the agent correctly maintains your existing appointment, clearly distinguishes it from the new booking request, and avoids overwriting or confusing the two appointments.
+Status: completed
+
+[AGENT] Training purposes. But
+[AGENT] Thanks for calling Pivot Point Orthopedics. Part of pretty good Ai and by speaking with Alex,
+[AGENT] Hello. Thanks for calling Pivot Point Orthopedics.  Am I speaking with Alex? How may I help you today?
+[PATIENT] Hi, this is Alex. I have an appointment scheduled for Monday, March 2nd at 11:00 AM, and I’d like to schedule an appointment for my wife on a different day since she’s not available on Mondays. Could you help me find some nearby dates?
+[AGENT] Got it Alex. I can help with both requests first on the date of birth to verify your identity. Could you please provide that and for your wife I'll need her name and date of birth as well.
+[PATIENT] My date of birth is April 15, 1985. My wife's name is Sarah, and her date of birth is June 20, 1987.
+[AGENT] Out of Alex, I verify your information now for your wife, Sarah, could you please provide her last name as well? That way I can help schedule her appointment.
+[PATIENT] Sure, her last name is Johnson. Can you suggest some dates for her appointment?
+[AGENT] Thanks. Alex, what type of appointment does? Sarah need new patient consultation, follow-up procedure, or physical therapy. This will help me find the right dates for her.
+[PATIENT] She needs a follow-up procedure. Could you check for available dates that are close to my appointment?
+[AGENT] Just to clarify. Does Sarah need a follow-up consultation or a procedure appointment. At Pivot Point Orthopedics a follow-up consultation is a 60-minute. Visit to review progress. While a procedure appointment is for injections or other treatments Amino which 1 she needs and I'll check for Dates near your appointment.
+[AGENT] Just to confirm does. Sarah need a follow-up consultation to review her progress, or a procedure appointment for a treatment, like an injection. Let me know which 1 and I'll check for available dates, close to your appointment.
+[AGENT] Are you still there?
+[PATIENT] Yes, I'm still here. She needs a follow-up consultation to review her progress. Can you find some dates close to my appointment?
+[AGENT] Product. I'll check for follow-up consultation appointments for Sarah on your Monday March 2nd 1 moment while I find the available dates
+[AGENT] There can be seen for a follow-up consultation on Monday March 2nd at 2 p.m. or Tuesday. March 3rd at 8:00 a.m. would either of these work for her.
+[AGENT] Sarah can be seen for a follow-up consultation on Monday March 2nd at 2 p.m. or on Tuesday. March 3rd at 8 a.m. would either of these work for her.
+[AGENT] Are you still there?
+[PATIENT] Thanks, that’s all I needed. Bye.

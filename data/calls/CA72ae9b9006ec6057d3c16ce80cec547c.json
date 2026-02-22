@@ -1,0 +1,96 @@
+{
+  "call_sid": "CA72ae9b9006ec6057d3c16ce80cec547c",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.",
+      "ts": "2026-02-20T23:26:54.481426+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-20T23:27:03.336874+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex, and my date of birth is March 5, 1990. I need to reschedule my appointment to a later date, please!",
+      "ts": "2026-02-20T23:27:04.493804+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Audit Alex. Let me check your upcoming appointment and find some later dates for you to reschedule 1 moment",
+      "ts": "2026-02-20T23:27:27.722636+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You have a follow-up consultation scheduled for Monday. March 2nd at 1:00 p.m. with Dr. Dubia Howser is this the appointment you want to reschedule to a later date?",
+      "ts": "2026-02-20T23:27:39.621194+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's the one. Can you move it to sometime next week? I\u2019m in a bit of a rush!",
+      "ts": "2026-02-20T23:27:40.502083+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Can you make it for Wednesday or Thursday? Whatever works best!",
+      "ts": "2026-02-20T23:28:02.909073+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. The earliest available slot is Wednesday. February 25th at 10:00 a.m.? Would you like to move your follow-up consultation to that time?",
+      "ts": "2026-02-20T23:28:21.018336+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that works for me! Please go ahead and reschedule it for Wednesday at 10:00 a.m. Thank you!",
+      "ts": "2026-02-20T23:28:22.415691+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me confirm.  I'll reschedule your follow-up consultation with Dr. Doogie Howser to Wednesday, February 25th at 10:00 a.m., is that correct?",
+      "ts": "2026-02-20T23:28:44.232571+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct! Thank you for your help!",
+      "ts": "2026-02-20T23:28:45.193752+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Your follow-up consultation is now set for Wednesday, February 25th at 10:00 a.m. with Dr. Doogie Howser, would you like a text message reminder for this appointment?",
+      "ts": "2026-02-20T23:29:05.815041+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please send me a text message reminder. Thanks again!",
+      "ts": "2026-02-20T23:29:06.376020+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You'll get a text reminder soon at your number ending in 8312. If you need anything else, just let me know.",
+      "ts": "2026-02-20T23:29:24.910678+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You'll get a text reminder soon that your number ending in 8312. If you need anything else, just let me know.",
+      "ts": "2026-02-20T23:29:40.552982+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you still there?",
+      "ts": "2026-02-20T23:29:49.912626+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-20T23:29:49.913410+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "impatient_caller",
+  "scenario_text": "you are in hurry and want to reschedule  an existing appointment to a later date, give your name and date of birth in the first turn itself even before the agent asks and ask to reschedule like you are in a hurry"
+}

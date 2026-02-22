@@ -1,0 +1,101 @@
+{
+  "call_sid": "CAe09ea4bf17749c41c858158ed4d73435",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Training purposes.  Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-20T02:07:39.364070+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling Pivot Point Orthopedics.  Am I speaking with Alex? If so. Can you please tell me your date of birth to verify your identity?",
+      "ts": "2026-02-20T02:07:57.447803+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex. My date of birth is March 12, 1990. Can you tell me what services you offer and if I need an appointment? Also, do you accept my insurance?",
+      "ts": "2026-02-20T02:07:59.071891+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "The birthday you gave doesn't match our records, but for demo purposes. I'll accept it. Pivot Point Orthopedics treats joint, muscle and bone conditions. We offer doctor visits procedures and physical therapy. All In 1 Place most services do require an appointment. We accept most insurance plans. If you want to check or update your insurance I can help with that. Would you like to schedule a visit or talk about your insurance details?",
+      "ts": "2026-02-20T02:08:46.362273+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Can you provide more details about the types of joint or muscle conditions you treat? And how can I check if my insurance is accepted?",
+      "ts": "2026-02-20T02:08:47.711756+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "We trained a wide range of issues, sports injuries arthritis, chronic pain, sprains fractures and post-surgical Recovery. Our team helps with joint pain, muscle strains and Mobility problems to check. If your insurance is accepted, I can update or review your insurance info on file. Would you like me to do that now?",
+      "ts": "2026-02-20T02:09:23.460642+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please check if my insurance is accepted. Also, can you tell me how long the appointment usually takes?",
+      "ts": "2026-02-20T02:09:24.857341+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "got it to check if your insurance is accepted, I'll need the name of your insurance company and plan, can you tell me what's listed on your card for most visits appointments, last about 30 to 45 minutes, some procedures or physical therapy, sessions may take longer",
+      "ts": "2026-02-20T02:09:55.569506+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My insurance is with Blue Cross Blue Shield, and it's the standard plan. Can you confirm if that's accepted? Also, what types of procedures might take longer than 45 minutes?",
+      "ts": "2026-02-20T02:09:56.832087+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check if Blue Cross Blue Shield, standard plan is accepted. Can you tell me which state your insurance was issued in? I'll also need your member ID number from your card for procedures surgeries like joint, injections fracture, repairs or Advanced Imaging can take longer than 45 minutes, Physical Therapy. Evaluations may also run longer depending on your needs.",
+      "ts": "2026-02-20T02:10:39.661595+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "My insurance was issued in California, and my member ID number is 123456789. Can you find out if it's accepted now? And how long do physical therapy sessions usually last?",
+      "ts": "2026-02-20T02:10:41.170682+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Can you tell me if my insurance is accepted now? Also, how long do the physical therapy sessions typically last?",
+      "ts": "2026-02-20T02:11:11.972923+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, we accept several Blue Cross. Blue Shield plans from California. I'll need to know the exact plan name listed on your card to confirm which 1 matches. Since there are a few options can you read the full plan name? As it appears physical therapy sessions, usually last about 45 to 60 Minutes depending on your treatment plan.",
+      "ts": "2026-02-20T02:11:47.551631+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "The full plan name is Blue Cross Blue Shield California Standard Plan. Can you confirm if that one is accepted? And do I need to bring anything to my first physical therapy session?",
+      "ts": "2026-02-20T02:11:49.412988+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "T, several similar Blue Cross. Blue Shields, California plans, but none called exactly standard plan. Can you check your card for more details? Like, if it says, HMO, PPO Medicare or group plan, that will help me, match it for your first physical therapy session. Bring your insurance card, a photo ID and wear comfortable clothing. You can move in if you have a referral or any recent medical records, bring those 2.",
+      "ts": "2026-02-20T02:12:32.184273+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I see. It says it's a PPO plan. Can you confirm if that's accepted now? Also, how soon can I schedule my first physical therapy session?",
+      "ts": "2026-02-20T02:12:33.196593+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, we accept Blue Cross Blue Shield of California. PPO plans, you're covered to schedule your first physical therapy session. Do you have a preferred day or time of day? I can check the next available appointment for you.",
+      "ts": "2026-02-20T02:13:02.378794+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thanks, that\u2019s all I needed. Bye.",
+      "ts": "2026-02-20T02:13:02.379709+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "edge_case",
+  "scenario_text": "Stress test: give incomplete info, ask multiple questions at once, and ask for clarification if they are vague."
+}

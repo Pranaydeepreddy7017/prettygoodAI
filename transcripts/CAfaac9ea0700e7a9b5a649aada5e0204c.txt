@@ -1,0 +1,22 @@
+CallSid: CAfaac9ea0700e7a9b5a649aada5e0204c
+Scenario: edge_case - Stress test: give incomplete info, ask multiple questions at once, and ask for clarification if they are vague.
+Status: completed
+
+[AGENT] Training purposes.
+[PATIENT] I’m not sure what you mean by that. Can you explain what the stress test involves? Also, how long does it usually take?
+[AGENT] A stress test checks how your heart works during physical activity usually by walking on a treadmill or riding a stationary bike while your heart is monitored. The test helps doctors see if your heart gets enough blood flow. When it's working hard, the whole process usually takes about 30 to 60 Minutes including prep and Recovery. Let me know if you have more questions.
+[PATIENT] Okay, that makes sense. What should I wear for the test, and do I need to avoid anything before the appointment?
+[AGENT] You should wear comfortable clothes and walking shoes. Like sneakers since you'll be moving during the test.
+[PATIENT] Got it, thanks! Is there anything specific I should avoid eating or drinking before the test?
+[AGENT] Yes. Usually you should avoid caffeine and heavy meals for a few hours before the test water is fine. Some clinics also asked you not to smoke or drink alcohol before the test.
+[PATIENT] Alright, thanks for that! How soon will I get the results, and will I receive them during the same appointment?
+[AGENT] Most of the time, the doctor will review your results right after the test and may discuss them with you during the same appointment.
+[PATIENT] That’s great to hear! If the doctor needs to do any follow-up tests based on the results, how soon would that happen?
+[AGENT] If follow-up tests are needed the doctor will usually let you know right away and help schedule them as soon as possible often within a few days to a week depending on urgency and availability.
+[PATIENT] That sounds good. One last thing—how should I prepare mentally for the test? Should I expect anything in particular during the process?
+[AGENT] It's normal to feel a little nervous, but most people do finds just try to relax.
+[PATIENT] Thanks for the reassurance! Is there anything else I should know about the test or the day of the appointment?
+[AGENT] You're welcome, just arrived, a little early, bring a list of your medications and let the staff know if you feel unwell at any point, otherwise you should be all set for your stress test. If you have more questions, feel free to ask.
+[PATIENT] Okay, I'll make sure to do that. Just to confirm, should I also bring my insurance information with me?
+[AGENT] Yes, please bring your insurance information with you to the appointment. It helps with check-in and billing.
+[PATIENT] Thanks, that’s all I needed. Bye.

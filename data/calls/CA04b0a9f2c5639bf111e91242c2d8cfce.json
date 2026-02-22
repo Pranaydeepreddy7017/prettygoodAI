@@ -1,0 +1,136 @@
+{
+  "call_sid": "CA04b0a9f2c5639bf111e91242c2d8cfce",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "And training purposes.",
+      "ts": "2026-02-22T19:45:12.867876+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Users. Thanks for calling Pivot Point Orthopedics. Part of pretty good AI. Am I speaking with Alex?",
+      "ts": "2026-02-22T19:45:21.406808+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, this is Alex. I\u2019d like to schedule a regular checkup, please.",
+      "ts": "2026-02-22T19:45:22.605186+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it, Alex. Can you please provide your date of birth?",
+      "ts": "2026-02-22T19:45:35.806658+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Sure, my date of birth is March 15, 1990.",
+      "ts": "2026-02-22T19:45:37.135953+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Elects the birthday doesn't match our records, but for demo purposes, I'll accept it.  Let me get started on scheduling your regular checkup.",
+      "ts": "2026-02-22T19:45:54.133584+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "For a regular checkup, we offer a follow-up consultation which is a 60-minute. Visit to review your progress and update your care plan. Does that sound right? Or do you have something else in mind?",
+      "ts": "2026-02-22T19:46:06.224015+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "That sounds good to me, just a regular checkup is what I need.",
+      "ts": "2026-02-22T19:46:07.716248+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfect. We have several providers available for follow-up. Consultations. Do you have a preferred provider or would you like me to list your options?",
+      "ts": "2026-02-22T19:46:24.862415+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I don't have a preferred provider, so please list my options.",
+      "ts": "2026-02-22T19:46:25.575827+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You can choose from Dr. Dudy Howser, Dr. Doug, Ross, or Dr. Adam, Bricker for your checkup. Would you like to hear more about any of them? Or should I check availability for all 3?",
+      "ts": "2026-02-22T19:46:46.161287+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "I don\u2019t need details; just check availability for all three, please.",
+      "ts": "2026-02-22T19:46:47.012227+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Got it. Let me check a billable times for a follow-up consultation with any of those providers 1 moment while I fetch the openings",
+      "ts": "2026-02-22T19:47:03.131016+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Next available. Follow-up consultation is Tuesday, February 24th at 10:00 a.m. with Dr. Dudy Howser there are also openings at 11:00 a.m. that day, would you like to book 1 of these times or do you need a different day?",
+      "ts": "2026-02-22T19:47:18.726261+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Let's go with the 10:00 a.m. appointment on February 24th with Dr. Dudy Howser.",
+      "ts": "2026-02-22T19:47:19.841812+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Just to confirm, you'd like to book a follow-up consultation on Tuesday, February 24th at 10:00 a.m. with Dr. Dudy Howser, is that correct?",
+      "ts": "2026-02-22T19:47:39.400898+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, that's correct.",
+      "ts": "2026-02-22T19:47:40.732957+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Your appointment is set for Tuesday, February 24th, at 10:00 a.m. with Dr. Dudy Howser, please bring a government-issued photo ID and your insurance card. Would you like a text reminder for this appointment?",
+      "ts": "2026-02-22T19:48:01.031247+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, please send me a text reminder. Thank you!",
+      "ts": "2026-02-22T19:48:01.724917+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You'll get a text reminder soon at your number ending in 8312 if you need to make any changes or have questions, just let me know.",
+      "ts": "2026-02-22T19:48:18.733163+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You did a text reminder soon at your number ending in 8312.",
+      "ts": "2026-02-22T19:48:32.655243+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you still there?",
+      "ts": "2026-02-22T19:48:44.326353+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I'm still here. Thank you for your help! <END_CALL>",
+      "ts": "2026-02-22T19:48:45.038213+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're all set Alex, have a great day.",
+      "ts": "2026-02-22T19:48:57.725638+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Thank you! You too! <END_CALL>",
+      "ts": "2026-02-22T19:49:01.581120+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "schedule_new_appointment",
+  "scenario_text": "You need to schedule a new appointment- any time works, just a regular checkup. no constraints on date/time."
+}

@@ -1,0 +1,22 @@
+CallSid: CA55cf34a063da81b0c131c5e73bec6bd9
+Scenario: self_correction_date_time - You already have a confirmed appointment on  Tuesday, March 3rd at 12:00 p.m You need to reschedule it. During the conversation, intentionally self-correct like a real person. For example: say 'Can we do next wednesday—actually Thursday?' and later '2 PM—sorry, make that 12 PM.' Speak naturally. The goal is to see whether the agent correctly updates the appointment and confirms ONLY the final corrected date and time.
+Status: completed
+
+[AGENT] Training purposes.
+[AGENT] Thanks for calling Pivot Point Orthopedics.
+[PATIENT] Hi, I need to reschedule my appointment that I have on Tuesday, March 3rd at 12:00 p.m. Can we do next Wednesday—actually, Thursday?
+[AGENT] Got, can you please confirm your date of birth? So I can verify your identity before I help reschedule your appointment.
+[PATIENT] Yes, that’s correct.
+[AGENT] I'll meet you date of birth to continue.
+[PATIENT] Oh, sorry! My date of birth is April 15, 1985.
+[PATIENT] Thank you! So, can we move that appointment to Thursday at 12 PM?
+[AGENT] Got it.
+[PATIENT] Actually, can we make that 2 PM instead? Sorry about that!
+[AGENT] No problem. You have a new patient consultation scheduled for Tuesday, March 3rd at 12:00 p.m.
+[PATIENT] No, sorry, I meant Thursday at 2 PM. Can you confirm that?
+[AGENT] The next available slot on Thursday is at 2:15 p.m. with Dr. Dudy Hower for a new patient consultation.
+[PATIENT] Oh, okay, let’s go with that then—Thursday at 2:15 p.m. Please confirm that for me.
+[AGENT] You're asking to move, your new patient consultation to Thursday, February 26th at 2:15 p.m. with Dr. Doogie Howser
+[PATIENT] Sorry, I think I mixed up the date again. I meant Thursday, March 7th at 2:15 p.m. Can you confirm that?
+[AGENT] No problem. The next available. Thursday is February 2026, not March 7th.
+[PATIENT] Thanks, that’s all I needed. Bye.

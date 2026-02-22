@@ -1,0 +1,41 @@
+{
+  "call_sid": "CA960735c40c76aa9e408d194b47bb5322",
+  "turns": [
+    {
+      "speaker": "patient",
+      "text": "Hi, I need to schedule a stress test, but I'm not sure about the details. Can you tell me what I need to prepare for it, and how long it usually takes? Also, do I need a referral?",
+      "ts": "2026-02-17T02:49:51.017930+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "No, you're not. You don't need any referrals.",
+      "ts": "2026-02-17T02:50:12.695793+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Patient: Okay, thanks for clarifying that! But can you tell me what I should wear for the test and if there are any specific instructions I need to follow beforehand?",
+      "ts": "2026-02-17T02:50:15.105719+00:00"
+    },
+    {
+      "speaker": "agent",
+      "text": "Instructions. You have to follow beforehand but you need to have an appointment.",
+      "ts": "2026-02-17T02:50:37.777310+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Patient: Alright, I understand I need an appointment. Can you tell me what those specific instructions are, like if I should avoid eating or taking certain medications?",
+      "ts": "2026-02-17T02:50:38.895424+00:00"
+    },
+    {
+      "speaker": "patient",
+      "text": "Patient: Sure, I\u2019d like to know if there\u2019s anything I should avoid eating or drinking before the test, and what about my medications?",
+      "ts": "2026-02-17T02:50:56.795935+00:00"
+    }
+  ],
+  "meta": {
+    "twilio_call_status": "completed"
+  },
+  "status": "completed",
+  "scenario_id": "edge_case",
+  "scenario_text": "Stress test: give incomplete info, ask multiple questions at once, and ask for clarification if they are vague."
+}

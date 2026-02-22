@@ -1,0 +1,22 @@
+CallSid: CA28836f57863c396968311ff5085b1bf2
+Scenario: med_refill - You need a medication refill. You ran out and want to know the process and expected timeline.
+Status: completed
+
+[AGENT] Remaining purposes.
+[PATIENT] Hi, I need a refill for my medication. Can you tell me the process and how long it usually takes?
+[AGENT] Are you asking about how long it takes to get an appointment or about a specific procedure or service at Pivot Point Orthopedic? Let me know what you're interested in and I'll explain the process in timing.
+[PATIENT] I'm asking about the medication refill process, please. How long does that usually take?
+[AGENT] Got it.
+[PATIENT] Thank you! I just want to make sure I understand what I need to do to get my refill.
+[AGENT] No problem.
+[PATIENT] Do I need to contact my pharmacy, or do you handle the refill request directly?
+[AGENT] You can request your refill directly through us.
+[PATIENT] Great! How long does it usually take to process the refill once I request it?
+[AGENT] Once you request a refill, it usually takes 1 to 2, business days for the clinic to process and send it to your Pharmacy.
+[PATIENT] Okay, that sounds good. Do I need to provide any specific information when I request the refill?
+[AGENT] Yes, when you request a refill, it helps to provide your full name date of birth, the medication name and your preferred Pharmacy. This makes the process faster and smoother.
+[PATIENT] My name is Alex Johnson.
+[AGENT] Thanks Alex.
+[PATIENT] My date of birth is March 15, 1985.
+[AGENT] Let me confirm your name is Alex Johnson and your date of birth is March 15th.
+[PATIENT] Thanks, that’s all I needed. Bye.
