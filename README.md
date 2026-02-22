@@ -56,8 +56,10 @@ Change `--n` to any number of simultaneous test calls you want to run.
 This dials your Twilio number and connects to the `/voice` endpoint.
 
 ## Step 6: Analyze Call Transcripts
+After generating multiple call transcripts 
+
 ```bash
-python analyze_calls.py
+python3 analyze_calls.py
 ```
 Generates QA analysis for completed calls in `transcripts/`
 
