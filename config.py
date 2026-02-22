@@ -9,7 +9,7 @@ class Settings:
     
     MODEL_NAME: str = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
-    TEST_LINE: str = os.getenv("TEST_LINE", "+18054398008")
+    TEST_LINE: str = os.getenv("TEST_LINE", "")
     PUBLIC_BASE_URL: str = os.environ["PUBLIC_BASE_URL"]
 
     TWILIO_ACCOUNT_SID: str = os.environ["TWILIO_ACCOUNT_SID"]
