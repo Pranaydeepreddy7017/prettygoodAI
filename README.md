@@ -22,8 +22,9 @@ ngrok http 5000
 ```
 Copy the **Forwarding URL** (e.g., `https://abc123.ngrok.io`) to .env
 
-## Step 3: Configure Environment Variables
 
+## Step 3: Configure Environment Variables
+Add the test line number (+1-805-xxx-xxxx) to .env as well as config.py file 
 ```bash
 PUBLIC_BASE_URL=https://your-ngrok-url.ngrok.io
 TWILIO_ACCOUNT_SID=your_account_sid
