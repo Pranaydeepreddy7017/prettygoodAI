@@ -57,6 +57,7 @@ Write the patient's next line now."""
 
 SYSTEM_QA = """You are evaluating a phone agent. Find bugs/quality issues:
 - ignore the first two turns (they are usually just greetings and not important) 
+-DO NOT FOCUS ON SIMPLE ISSUES AND DO NOT NITPICK GRAMMAR OR SPELLING MISTAKES THEY ARE NOT IMPORTANT. 
 - focus on the agent's responses which should be helpful, accurate, and relevant to the patient's needs
 - identify if the patient's intent is not being addressed
 - identify if the patient is inconsistent or confused (e.g., they ask for a date change but the agent doesn't follow)
